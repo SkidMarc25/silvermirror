@@ -303,7 +303,7 @@ PidgeotEvosAttacks:
 	db 38, WING_ATTACK
 	db 44, ROOST
 	db 50, STEEL_WING ;tailwind, x
-	db 56, DRILL_PECK ;mirror_move, removed
+	db 56, EXTREMESPEED ;mirror_move, removed
 	db 62, AIR_SLICE ;air_slash, ~
 	db 0 ; no more level-up moves
 
